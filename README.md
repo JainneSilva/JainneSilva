@@ -16,4 +16,3 @@
  
 </div> 
 
-![stack2](https://user-images.githubusercontent.com/36930816/184163760-72c523fb-1ed4-4381-8877-aa4f224c7614.png)
